@@ -1,0 +1,2 @@
+letsencrypt.log*
+letsencrypt/config_dir/accounts/*
